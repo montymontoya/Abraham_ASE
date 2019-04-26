@@ -1,0 +1,969 @@
+fileFormatVersion: 2
+guid: 0ade439cd5b2df647addfd33d467371a
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: bases
+    100002: BLIND
+    100004: Box005
+    100006: Box007
+    100008: Box009
+    100010: Box010
+    100012: Box011
+    100014: Box02
+    100016: Box039
+    100018: Box040
+    100020: cgaxis_models_11_46_05
+    100022: comoda_silla
+    100024: Cylinder001
+    100026: Cylinder002
+    100028: Cylinder003
+    100030: Cylinder004
+    100032: Cylinder005
+    100034: Cylinder006
+    100036: Cylinder008
+    100038: Cylinder009
+    100040: Cylinder010
+    100042: Cylinder011
+    100044: Cylinder012
+    100046: Cylinder013
+    100048: Cylinder014
+    100050: Cylinder015
+    100052: Cylinder016
+    100054: Cylinder017
+    100056: desk_principal
+    100058: //RootNode
+    100060: goma
+    100062: gomas
+    100064: Group001
+    100066: hojas
+    100068: hojas_historia
+    100070: HORIZONTAL_BLINDS_E_001
+    100072: imagen
+    100074: imagen001
+    100076: lamparas_mader
+    100078: LAPICES_VR
+    100080: Line002
+    100082: Line004
+    100084: Line008
+    100086: Line009
+    100088: Line010
+    100090: Line011
+    100092: Line012
+    100094: Line02
+    100096: Line04
+    100098: Line05
+    100100: Line06
+    100102: Line07
+    100104: madera
+    100106: madera_base
+    100108: madera_base001
+    100110: madera_desk
+    100112: mesa_metal
+    100114: mesa_secundaria
+    100116: mesa_trabajo
+    100118: metales
+    100120: models_11_09_01
+    100122: models_37_46_004
+    100124: models_37_46_005
+    100126: models_37_46_05_004
+    100128: models_37_46_05_005
+    100130: mueble_02
+    100132: Obj_000003
+    100134: Object001
+    100136: pared_derecha
+    100138: pared_ventana
+    100140: Pencil_red_004
+    100142: Pencil_red_005
+    100144: Pencil_red_006
+    100146: Pencil_red_008
+    100148: Pencil_red_009
+    100150: Pencil_red_01
+    100152: Pencil_red_010
+    100154: Pencil_red_011
+    100156: Pencil_red_012
+    100158: Pencil_red_013
+    100160: Pencil_red_014
+    100162: Pencil_red_015
+    100164: Pencil_red_019
+    100166: Pencil_red_02
+    100168: Pencil_red_03
+    100170: plane
+    100172: plane 1
+    100174: plane 10
+    100176: plane 11
+    100178: plane 12
+    100180: plane 13
+    100182: plane 14
+    100184: plane 15
+    100186: plane 16
+    100188: plane 17
+    100190: plane 18
+    100192: plane 19
+    100194: plane 2
+    100196: plane 20
+    100198: plane 21
+    100200: plane 3
+    100202: plane 4
+    100204: plane 5
+    100206: plane 6
+    100208: plane 7
+    100210: plane 8
+    100212: plane 9
+    100214: Plane001
+    100216: Plane002
+    100218: Plane003
+    100220: Plane004
+    100222: Plane005
+    100224: Plane006
+    100226: Plane007
+    100228: Plane008
+    100230: Plane009
+    100232: Plane01
+    100234: Plane010
+    100236: Plane011
+    100238: Plane012
+    100240: Plane013
+    100242: Plane014
+    100244: Plane015
+    100246: Plane016
+    100248: Plane017
+    100250: Plane018
+    100252: Plane019
+    100254: Plane020
+    100256: Plane021
+    100258: Plane022
+    100260: Plane023
+    100262: Plane024
+    100264: Plane025
+    100266: Plane026
+    100268: Plane027
+    100270: Plane028
+    100272: Plane029
+    100274: Plane030
+    100276: Plane032
+    100278: Plane033
+    100280: Plane034
+    100282: pluma
+    100284: portaretrato
+    100286: portaretrato001
+    100288: portrail_group001
+    100290: portrail_group002
+    100292: respaldo
+    100294: s_models_11_09_02
+    100296: s_models_11_09_03
+    100298: seperadores_hojas
+    100300: Shape002
+    100302: Shape003
+    100304: Shape004
+    100306: Shape005
+    100308: Shape006
+    100310: Shape1
+    100312: Shape2
+    100314: Shape3
+    100316: Shape4
+    100318: Shape5
+    100320: silla
+    100322: silla_estructura
+    100324: soportes
+    100326: soportes_abajo
+    100328: Sphere001
+    100330: Sphere002
+    100332: Sphere003
+    100334: Sphere004
+    100336: Sphere005
+    100338: Sphere006
+    100340: spotify
+    100342: tapete_mesa
+    100344: Techo
+    100346: vidrio
+    100348: vidrio002
+    100350: vidrio01
+    100352: youtube_icon
+    400000: bases
+    400002: BLIND
+    400004: Box005
+    400006: Box007
+    400008: Box009
+    400010: Box010
+    400012: Box011
+    400014: Box02
+    400016: Box039
+    400018: Box040
+    400020: cgaxis_models_11_46_05
+    400022: comoda_silla
+    400024: Cylinder001
+    400026: Cylinder002
+    400028: Cylinder003
+    400030: Cylinder004
+    400032: Cylinder005
+    400034: Cylinder006
+    400036: Cylinder008
+    400038: Cylinder009
+    400040: Cylinder010
+    400042: Cylinder011
+    400044: Cylinder012
+    400046: Cylinder013
+    400048: Cylinder014
+    400050: Cylinder015
+    400052: Cylinder016
+    400054: Cylinder017
+    400056: desk_principal
+    400058: //RootNode
+    400060: goma
+    400062: gomas
+    400064: Group001
+    400066: hojas
+    400068: hojas_historia
+    400070: HORIZONTAL_BLINDS_E_001
+    400072: imagen
+    400074: imagen001
+    400076: lamparas_mader
+    400078: LAPICES_VR
+    400080: Line002
+    400082: Line004
+    400084: Line008
+    400086: Line009
+    400088: Line010
+    400090: Line011
+    400092: Line012
+    400094: Line02
+    400096: Line04
+    400098: Line05
+    400100: Line06
+    400102: Line07
+    400104: madera
+    400106: madera_base
+    400108: madera_base001
+    400110: madera_desk
+    400112: mesa_metal
+    400114: mesa_secundaria
+    400116: mesa_trabajo
+    400118: metales
+    400120: models_11_09_01
+    400122: models_37_46_004
+    400124: models_37_46_005
+    400126: models_37_46_05_004
+    400128: models_37_46_05_005
+    400130: mueble_02
+    400132: Obj_000003
+    400134: Object001
+    400136: pared_derecha
+    400138: pared_ventana
+    400140: Pencil_red_004
+    400142: Pencil_red_005
+    400144: Pencil_red_006
+    400146: Pencil_red_008
+    400148: Pencil_red_009
+    400150: Pencil_red_01
+    400152: Pencil_red_010
+    400154: Pencil_red_011
+    400156: Pencil_red_012
+    400158: Pencil_red_013
+    400160: Pencil_red_014
+    400162: Pencil_red_015
+    400164: Pencil_red_019
+    400166: Pencil_red_02
+    400168: Pencil_red_03
+    400170: plane
+    400172: plane 1
+    400174: plane 10
+    400176: plane 11
+    400178: plane 12
+    400180: plane 13
+    400182: plane 14
+    400184: plane 15
+    400186: plane 16
+    400188: plane 17
+    400190: plane 18
+    400192: plane 19
+    400194: plane 2
+    400196: plane 20
+    400198: plane 21
+    400200: plane 3
+    400202: plane 4
+    400204: plane 5
+    400206: plane 6
+    400208: plane 7
+    400210: plane 8
+    400212: plane 9
+    400214: Plane001
+    400216: Plane002
+    400218: Plane003
+    400220: Plane004
+    400222: Plane005
+    400224: Plane006
+    400226: Plane007
+    400228: Plane008
+    400230: Plane009
+    400232: Plane01
+    400234: Plane010
+    400236: Plane011
+    400238: Plane012
+    400240: Plane013
+    400242: Plane014
+    400244: Plane015
+    400246: Plane016
+    400248: Plane017
+    400250: Plane018
+    400252: Plane019
+    400254: Plane020
+    400256: Plane021
+    400258: Plane022
+    400260: Plane023
+    400262: Plane024
+    400264: Plane025
+    400266: Plane026
+    400268: Plane027
+    400270: Plane028
+    400272: Plane029
+    400274: Plane030
+    400276: Plane032
+    400278: Plane033
+    400280: Plane034
+    400282: pluma
+    400284: portaretrato
+    400286: portaretrato001
+    400288: portrail_group001
+    400290: portrail_group002
+    400292: respaldo
+    400294: s_models_11_09_02
+    400296: s_models_11_09_03
+    400298: seperadores_hojas
+    400300: Shape002
+    400302: Shape003
+    400304: Shape004
+    400306: Shape005
+    400308: Shape006
+    400310: Shape1
+    400312: Shape2
+    400314: Shape3
+    400316: Shape4
+    400318: Shape5
+    400320: silla
+    400322: silla_estructura
+    400324: soportes
+    400326: soportes_abajo
+    400328: Sphere001
+    400330: Sphere002
+    400332: Sphere003
+    400334: Sphere004
+    400336: Sphere005
+    400338: Sphere006
+    400340: spotify
+    400342: tapete_mesa
+    400344: Techo
+    400346: vidrio
+    400348: vidrio002
+    400350: vidrio01
+    400352: youtube_icon
+    2100000: cgaxis_models_11_41_02
+    2100002: cgaxis_models_11_09_01
+    2100004: cgaxis_models_11_09_02
+    2100006: cgaxis_models_11_09_03
+    2100008: cgaxis_models_11_41_01
+    2100010: No Name
+    2100012: Wood_Cedfence
+    2100014: 02 - Default
+    2100016: 'Material #393'
+    2100018: cgaxis_models_37_46_05
+    2100020: 13 - Default
+    2100022: 13 - Dasefault
+    2100024: 13 - Daasasasassefault
+    2100026: 13 - Daassefault
+    2100028: 13 - Dasaasasasassefault
+    2100030: 13 - Daasasassefault
+    2100032: 13 - Daasassefault
+    2100034: 01 - Default
+    2100036: 08 - Default
+    2100038: 09 - Default
+    2100040: 07 - Default
+    2100042: 10 - Default
+    2100044: cgaxis_models_11_46_05
+    2100046: cgaxis_models_11_46_03
+    2100048: cgaxis_models_11_46_02
+    2100050: cgaxis_models_11_46_01
+    2100052: cgaxis_models_11_46_04
+    2100054: cgaxis_models_37_50_02
+    2100056: cgaxis_models_37_50_03
+    2100058: cgaxis_models_37_50_01
+    2100060: cgaxis_models_11_34_02
+    2100062: cgaxis_models_11_34_03
+    2100064: cgaxis_models_11_34_04
+    2100066: cgaxis_models_11_34_01
+    2100068: Pencil_set_OBJ_01___Default
+    2100070: Pencil_set_OBJ_02___Default
+    2100072: cgaxis_models_11_41_03
+    2100074: cgaxis_models_38_15_01
+    2100076: 20 - Default
+    2100078: 21 - Default
+    2100080: 22 - Default
+    2100082: 03 - Default
+    2100084: 'Material #405'
+    2100086: 23 - Default
+    2100088: 'Material #369'
+    2100090: 24 - Default
+    2100092: 'Material #381'
+    2100094: 04 - Default
+    2100096: 05 - Default
+    2100098: 'Material #429'
+    2100100: 06 - Default
+    2100102: 'Material #441'
+    2100104: 'Material #442'
+    2100106: 12 - Default
+    2300000: bases
+    2300002: BLIND
+    2300004: Box005
+    2300006: Box007
+    2300008: Box009
+    2300010: Box010
+    2300012: Box011
+    2300014: Box02
+    2300016: Box039
+    2300018: Box040
+    2300020: cgaxis_models_11_46_05
+    2300022: comoda_silla
+    2300024: Cylinder001
+    2300026: Cylinder002
+    2300028: Cylinder003
+    2300030: Cylinder004
+    2300032: Cylinder005
+    2300034: Cylinder006
+    2300036: Cylinder008
+    2300038: Cylinder009
+    2300040: Cylinder010
+    2300042: Cylinder011
+    2300044: Cylinder012
+    2300046: Cylinder013
+    2300048: Cylinder014
+    2300050: Cylinder015
+    2300052: Cylinder016
+    2300054: Cylinder017
+    2300056: gomas
+    2300058: imagen
+    2300060: imagen001
+    2300062: Line002
+    2300064: Line004
+    2300066: Line008
+    2300068: Line009
+    2300070: Line010
+    2300072: Line011
+    2300074: Line012
+    2300076: Line02
+    2300078: Line04
+    2300080: Line05
+    2300082: Line06
+    2300084: Line07
+    2300086: madera
+    2300088: madera_base
+    2300090: madera_base001
+    2300092: madera_desk
+    2300094: mesa_metal
+    2300096: mesa_trabajo
+    2300098: metales
+    2300100: models_11_09_01
+    2300102: models_37_46_004
+    2300104: models_37_46_005
+    2300106: models_37_46_05_004
+    2300108: models_37_46_05_005
+    2300110: mueble_02
+    2300112: Object001
+    2300114: pared_derecha
+    2300116: pared_ventana
+    2300118: Pencil_red_004
+    2300120: Pencil_red_005
+    2300122: Pencil_red_006
+    2300124: Pencil_red_008
+    2300126: Pencil_red_009
+    2300128: Pencil_red_01
+    2300130: Pencil_red_010
+    2300132: Pencil_red_011
+    2300134: Pencil_red_012
+    2300136: Pencil_red_013
+    2300138: Pencil_red_014
+    2300140: Pencil_red_015
+    2300142: Pencil_red_019
+    2300144: Pencil_red_02
+    2300146: Pencil_red_03
+    2300148: plane 1
+    2300150: plane 10
+    2300152: plane 11
+    2300154: plane 12
+    2300156: plane 13
+    2300158: plane 14
+    2300160: plane 15
+    2300162: plane 16
+    2300164: plane 17
+    2300166: plane 18
+    2300168: plane 19
+    2300170: plane 2
+    2300172: plane 20
+    2300174: plane 21
+    2300176: plane 3
+    2300178: plane 4
+    2300180: plane 5
+    2300182: plane 6
+    2300184: plane 7
+    2300186: plane 8
+    2300188: plane 9
+    2300190: Plane001
+    2300192: Plane002
+    2300194: Plane003
+    2300196: Plane004
+    2300198: Plane005
+    2300200: Plane006
+    2300202: Plane007
+    2300204: Plane008
+    2300206: Plane009
+    2300208: Plane01
+    2300210: Plane010
+    2300212: Plane011
+    2300214: Plane012
+    2300216: Plane013
+    2300218: Plane014
+    2300220: Plane015
+    2300222: Plane016
+    2300224: Plane017
+    2300226: Plane018
+    2300228: Plane019
+    2300230: Plane020
+    2300232: Plane021
+    2300234: Plane022
+    2300236: Plane023
+    2300238: Plane024
+    2300240: Plane025
+    2300242: Plane026
+    2300244: Plane027
+    2300246: Plane028
+    2300248: Plane029
+    2300250: Plane030
+    2300252: Plane032
+    2300254: Plane033
+    2300256: Plane034
+    2300258: respaldo
+    2300260: s_models_11_09_02
+    2300262: s_models_11_09_03
+    2300264: Shape002
+    2300266: Shape003
+    2300268: Shape004
+    2300270: Shape005
+    2300272: Shape006
+    2300274: Shape1
+    2300276: Shape2
+    2300278: Shape3
+    2300280: Shape4
+    2300282: Shape5
+    2300284: silla_estructura
+    2300286: soportes
+    2300288: soportes_abajo
+    2300290: Sphere001
+    2300292: Sphere002
+    2300294: Sphere003
+    2300296: Sphere004
+    2300298: Sphere005
+    2300300: Sphere006
+    2300302: tapete_mesa
+    2300304: Techo
+    2300306: vidrio
+    2300308: vidrio002
+    2300310: vidrio01
+    3300000: bases
+    3300002: BLIND
+    3300004: Box005
+    3300006: Box007
+    3300008: Box009
+    3300010: Box010
+    3300012: Box011
+    3300014: Box02
+    3300016: Box039
+    3300018: Box040
+    3300020: cgaxis_models_11_46_05
+    3300022: comoda_silla
+    3300024: Cylinder001
+    3300026: Cylinder002
+    3300028: Cylinder003
+    3300030: Cylinder004
+    3300032: Cylinder005
+    3300034: Cylinder006
+    3300036: Cylinder008
+    3300038: Cylinder009
+    3300040: Cylinder010
+    3300042: Cylinder011
+    3300044: Cylinder012
+    3300046: Cylinder013
+    3300048: Cylinder014
+    3300050: Cylinder015
+    3300052: Cylinder016
+    3300054: Cylinder017
+    3300056: gomas
+    3300058: imagen
+    3300060: imagen001
+    3300062: Line002
+    3300064: Line004
+    3300066: Line008
+    3300068: Line009
+    3300070: Line010
+    3300072: Line011
+    3300074: Line012
+    3300076: Line02
+    3300078: Line04
+    3300080: Line05
+    3300082: Line06
+    3300084: Line07
+    3300086: madera
+    3300088: madera_base
+    3300090: madera_base001
+    3300092: madera_desk
+    3300094: mesa_metal
+    3300096: mesa_trabajo
+    3300098: metales
+    3300100: models_11_09_01
+    3300102: models_37_46_004
+    3300104: models_37_46_005
+    3300106: models_37_46_05_004
+    3300108: models_37_46_05_005
+    3300110: mueble_02
+    3300112: Object001
+    3300114: pared_derecha
+    3300116: pared_ventana
+    3300118: Pencil_red_004
+    3300120: Pencil_red_005
+    3300122: Pencil_red_006
+    3300124: Pencil_red_008
+    3300126: Pencil_red_009
+    3300128: Pencil_red_01
+    3300130: Pencil_red_010
+    3300132: Pencil_red_011
+    3300134: Pencil_red_012
+    3300136: Pencil_red_013
+    3300138: Pencil_red_014
+    3300140: Pencil_red_015
+    3300142: Pencil_red_019
+    3300144: Pencil_red_02
+    3300146: Pencil_red_03
+    3300148: plane 1
+    3300150: plane 10
+    3300152: plane 11
+    3300154: plane 12
+    3300156: plane 13
+    3300158: plane 14
+    3300160: plane 15
+    3300162: plane 16
+    3300164: plane 17
+    3300166: plane 18
+    3300168: plane 19
+    3300170: plane 2
+    3300172: plane 20
+    3300174: plane 21
+    3300176: plane 3
+    3300178: plane 4
+    3300180: plane 5
+    3300182: plane 6
+    3300184: plane 7
+    3300186: plane 8
+    3300188: plane 9
+    3300190: Plane001
+    3300192: Plane002
+    3300194: Plane003
+    3300196: Plane004
+    3300198: Plane005
+    3300200: Plane006
+    3300202: Plane007
+    3300204: Plane008
+    3300206: Plane009
+    3300208: Plane01
+    3300210: Plane010
+    3300212: Plane011
+    3300214: Plane012
+    3300216: Plane013
+    3300218: Plane014
+    3300220: Plane015
+    3300222: Plane016
+    3300224: Plane017
+    3300226: Plane018
+    3300228: Plane019
+    3300230: Plane020
+    3300232: Plane021
+    3300234: Plane022
+    3300236: Plane023
+    3300238: Plane024
+    3300240: Plane025
+    3300242: Plane026
+    3300244: Plane027
+    3300246: Plane028
+    3300248: Plane029
+    3300250: Plane030
+    3300252: Plane032
+    3300254: Plane033
+    3300256: Plane034
+    3300258: respaldo
+    3300260: s_models_11_09_02
+    3300262: s_models_11_09_03
+    3300264: Shape002
+    3300266: Shape003
+    3300268: Shape004
+    3300270: Shape005
+    3300272: Shape006
+    3300274: Shape1
+    3300276: Shape2
+    3300278: Shape3
+    3300280: Shape4
+    3300282: Shape5
+    3300284: silla_estructura
+    3300286: soportes
+    3300288: soportes_abajo
+    3300290: Sphere001
+    3300292: Sphere002
+    3300294: Sphere003
+    3300296: Sphere004
+    3300298: Sphere005
+    3300300: Sphere006
+    3300302: tapete_mesa
+    3300304: Techo
+    3300306: vidrio
+    3300308: vidrio002
+    3300310: vidrio01
+    4300000: Plane001
+    4300002: models_11_09_01
+    4300004: s_models_11_09_02
+    4300006: s_models_11_09_03
+    4300008: Box005
+    4300010: Box007
+    4300012: Cylinder001
+    4300014: Line02
+    4300016: BLIND
+    4300018: Line06
+    4300020: Line05
+    4300022: Line07
+    4300024: Line04
+    4300026: models_37_46_004
+    4300028: models_37_46_05_004
+    4300030: models_37_46_005
+    4300032: models_37_46_05_005
+    4300034: Cylinder011
+    4300036: Cylinder012
+    4300038: Cylinder013
+    4300040: Cylinder014
+    4300042: Cylinder015
+    4300044: Cylinder002
+    4300046: Cylinder003
+    4300048: Cylinder004
+    4300050: Cylinder005
+    4300052: Cylinder008
+    4300054: Cylinder009
+    4300056: Cylinder010
+    4300058: Cylinder006
+    4300060: plane
+    4300062: plane
+    4300064: plane
+    4300066: plane
+    4300068: plane
+    4300070: plane
+    4300072: plane
+    4300074: plane
+    4300076: plane
+    4300078: plane
+    4300080: plane
+    4300082: plane
+    4300084: plane
+    4300086: plane
+    4300088: plane
+    4300090: plane
+    4300092: plane
+    4300094: plane
+    4300096: plane
+    4300098: plane
+    4300100: plane
+    4300102: Box02
+    4300104: Box009
+    4300106: Plane01
+    4300108: Plane002
+    4300110: Plane003
+    4300112: Plane004
+    4300114: Plane005
+    4300116: Plane006
+    4300118: Plane007
+    4300120: Plane008
+    4300122: Plane009
+    4300124: cgaxis_models_11_46_05
+    4300126: silla_estructura
+    4300128: comoda_silla
+    4300130: respaldo
+    4300132: bases
+    4300134: imagen
+    4300136: vidrio
+    4300138: madera_base
+    4300140: imagen001
+    4300142: madera_base001
+    4300144: vidrio002
+    4300146: Box010
+    4300148: mesa_metal
+    4300150: soportes
+    4300152: soportes_abajo
+    4300154: vidrio01
+    4300156: Pencil_red_01
+    4300158: Pencil_red_02
+    4300160: Pencil_red_03
+    4300162: Cylinder016
+    4300164: madera
+    4300166: metales
+    4300168: tapete_mesa
+    4300170: gomas
+    4300172: madera_desk
+    4300174: mueble_02
+    4300176: mesa_trabajo
+    4300178: Shape1
+    4300180: Plane010
+    4300182: Plane011
+    4300184: Plane012
+    4300186: Plane013
+    4300188: Plane014
+    4300190: Plane015
+    4300192: Plane016
+    4300194: Sphere001
+    4300196: Sphere002
+    4300198: Sphere003
+    4300200: Sphere004
+    4300202: Sphere005
+    4300204: Sphere006
+    4300206: Plane017
+    4300208: Plane018
+    4300210: Plane019
+    4300212: Cylinder017
+    4300214: Pencil_red_004
+    4300216: Pencil_red_005
+    4300218: Pencil_red_006
+    4300220: Pencil_red_019
+    4300222: Pencil_red_008
+    4300224: Pencil_red_009
+    4300226: Pencil_red_010
+    4300228: Pencil_red_011
+    4300230: Pencil_red_012
+    4300232: Pencil_red_013
+    4300234: Pencil_red_014
+    4300236: Pencil_red_015
+    4300238: Plane020
+    4300240: Plane021
+    4300242: Plane022
+    4300244: Plane023
+    4300246: Plane024
+    4300248: Plane025
+    4300250: Plane026
+    4300252: Plane027
+    4300254: Plane028
+    4300256: Plane029
+    4300258: Plane030
+    4300260: Shape2
+    4300262: Shape002
+    4300264: Line008
+    4300266: Line009
+    4300268: Line010
+    4300270: Line011
+    4300272: Line012
+    4300274: Line002
+    4300276: Line004
+    4300278: Plane032
+    4300280: Object001
+    4300282: Box040
+    4300284: Shape004
+    4300286: Shape3
+    4300288: Shape003
+    4300290: Shape005
+    4300292: Shape4
+    4300294: Shape5
+    4300296: Shape006
+    4300298: Plane033
+    4300300: Plane034
+    4300302: Box039
+    4300304: Techo
+    4300306: Box011
+    4300308: pared_derecha
+    4300310: pared_ventana
+    7400000: Take 001
+    9500000: //RootNode
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
