@@ -8,12 +8,18 @@ public class ShiftSscreen : Interactable
 
     public GameObject nxtScreen;
     public GameObject thisScreen;
-
+    public bool imThePrimChild;
+    public GameObject setMeTrueChild;
     /************CON ESTO SE LLAMAN LOS METODOS DE LA INTERACCION DEPENDIENDO DEL BOTON PRESIONADO*************/
     public override void ButtonPressDown(EVRButtonId button, ControllerInput controller)
     {
         thisScreen.SetActive(false);
         nxtScreen.SetActive(true);
+        if (imThePrimChild)
+        {
+            setMeTrueChild.SetActive(true);
+            this.gameObject.SetActive(false);
+        }
     }
 
     public override void ButtonPressUp(EVRButtonId button, ControllerInput controller)
