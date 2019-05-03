@@ -881,7 +881,12 @@ ModelImporter:
     4300310: pared_ventana
     7400000: Take 001
     9500000: //RootNode
-  externalObjects: {}
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: cgaxis_models_11_34_01
+    second: {fileID: 2100000, guid: fa3bc7b26783d1e4e92fe102e97618d0, type: 2}
   materials:
     importMaterials: 1
     materialName: 0
