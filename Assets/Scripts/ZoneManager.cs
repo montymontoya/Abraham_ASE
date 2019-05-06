@@ -8,16 +8,16 @@ public class ZoneManager : MonoBehaviour
     // Start is called before the first frame update
     void Start()
     {
-        thisGameObject = this.GetComponent<GameObject>();
+        zone2Active.SetActive(true);
     }
 
     // Update is called once per frame
     void Update()
-    {
+    {/*
         if (thisGameObject.activeSelf)
         {
-            zone2Active.SetActive(true);
+            
         }
-        
+        */
     }
 }
