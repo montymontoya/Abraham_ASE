@@ -4,7 +4,7 @@ using UnityEngine;
 
 public class ZoneManager : MonoBehaviour
 {
-    public GameObject zone2Active,thisGameObject;
+    public GameObject zone2Active;
     // Start is called before the first frame update
     void Start()
     {
